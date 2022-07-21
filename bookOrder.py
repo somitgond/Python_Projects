@@ -1,4 +1,9 @@
-
+"""
+A project using sql database accessed with python3 language .
+In this program you can make a bookshelf for yourself 
+It can open url ordering books
+It uses a website to fetch data using book ISBN address
+"""
 import requests as req
 import urllib.request as ur
 from bs4 import BeautifulSoup as bs
