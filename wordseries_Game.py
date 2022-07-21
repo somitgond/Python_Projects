@@ -1,6 +1,6 @@
 # this is a word series game 
 # in this game new word must start with ending letter of last entered value
-
+# It uses file handling with python3
 
 import time
 import os
@@ -8,7 +8,7 @@ import os
 print("This is WordSeries v1.1 by TSunami")
 print("DISCLAMER : This is an open source project so any one can distribute and modify it")
 print("Feel Free to create your own version\n")
-print("[-] Your device seems slower :(( \n[+]But please have patience")
+print("[-] Your device seems slower :(( \n[+]But please have patience")  # fun line
 print("Loading ... ")
 
 time.sleep(3)
